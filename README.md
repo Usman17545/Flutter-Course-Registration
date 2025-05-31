@@ -1,16 +1,35 @@
-# sharedpref
+# 🎓 Flutter Course Registration App
 
-A new Flutter project.
+A student and course management system built with **Flutter** and **Firebase Firestore**, designed for university-level academic management. This app supports both **admin** and **student** roles with features such as course registration, enrollment, and real-time communication.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+### 👩‍🎓 Student Side:
+- User registration and login
+- View academic dashboard (CGPA, credit hours, enrolled courses)
+- Enroll in available courses
+- Drop registered courses
+- Real-time chat with admin
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 👨‍💼 Admin Side:
+- Admin login
+- Add new students with details
+- Register new courses (title, code, credit hours, etc.)
+- View all students and courses
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🧩 Technologies Used
+
+- **Flutter** (Dart)
+- **Firebase Firestore** (NoSQL database)
+- **Firebase Auth** (User authentication)
+- **Provider** (State management)
+- **flutter_chat_ui** (Chat interface)
+- **Material Design UI**
+
+---
+
+

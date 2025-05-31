@@ -31,7 +31,7 @@ class ChatScreen extends StatefulWidget {
 class _ChatScreenState extends State<ChatScreen> {
   TextEditingController _userInput = TextEditingController();
 
-  static const apiKey = "AIzaSyAmbkqhW1cLYASa3vMegW_CHg43ZFdU4PU";
+  static const apiKey = "Your key";
 
   final model = GenerativeModel(model: 'gemini-pro', apiKey: apiKey);
 

@@ -32,4 +32,19 @@ A student and course management system built with **Flutter** and **Firebase Fir
 
 ---
 
+## 📷 Output Screenshots & 🎥 Demo Video
 
+Here’s a look at how the app works:
+
+📁 **Google Drive Folder (Images & Video):**  
+🔗 [Click to View Output Media](https://drive.google.com/drive/folders/1UYYaNsmH0HELR1uL_Dq1cSVIaacRd0xs)
+
+🎥 **Demo Includes:**
+- Student login & course enrollment
+- Admin adding new courses/students
+- Chat functionality
+- User interface walkthrough
+
+---
+
+Feel free to explore, fork, or contribute!

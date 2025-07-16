@@ -1,6 +1,8 @@
 # 🎓 Flutter Course Registration App
 
-![Flutter Course Registration Poster](https://drive.google.com/uc?export=view&id=1hGp4nSEHDsX4k7F3LID22q7oLkXw8gLH)
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1hGp4nSEHDsX4k7F3LID22q7oLkXw8gLH" alt="Flutter Course Registration Poster" width="600"/>
+</p>
 
 A student and course management system built with **Flutter** and **Firebase Firestore**, designed for university-level academic management. This app supports both **admin** and **student** roles with features such as course registration, enrollment, and real-time communication.
 
